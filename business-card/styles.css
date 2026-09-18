@@ -1,0 +1,218 @@
+
+@font-face{
+    font-family: "Autumn";
+    src: url(src/fonts/AutumnHuismuis22-3zGGy.otf);
+}
+
+@font-face{
+    font-family: "Retron";
+    src: url(src/fonts/Retron2000.ttf)
+}
+
+body{
+    background: #1B1F42;
+}
+
+.image-up{
+    position: relative;
+    bottom: 180px;
+}
+
+.image-panel1{
+    width: 1650px;
+    margin: 0 0 0 10px;
+    position: absolute;
+    z-index: 1;
+}
+
+.image-kitten{
+    position: absolute;
+    z-index: 2;
+    margin: 20px 0 0 30px;
+    width: 150px;
+}
+
+.image-buttons{
+    position: absolute;
+    z-index: 2;
+    display: flex;
+    
+    margin: 20px 0 0 1480px;
+    width: 150px;
+}
+
+p{
+    font-family: "Autumn";
+    color: #F0B7D7;
+    font-size: 200px;
+
+}
+
+.hey{
+    margin: 200px 0 0 200px;
+}
+
+.name{
+    margin: 50px 0 200px 400px;
+}
+
+
+.title {
+    display: flex;
+    margin: 0 0 0 30px;
+}
+
+
+.smth{
+    margin: 0px 0 0 50px;
+}
+
+.image-palm{
+    width: 100px;
+    height: 100px;
+    margin: 80px 0 0 0;
+}
+
+.selca{
+    display: flex;
+    justify-content: space-between; 
+    margin: 0px 50px 100px 50px;
+    border-radius: 50px;
+    position: relative;
+}
+
+.image-home{
+    position: absolute;
+    margin: 390px 0 0 710px;
+    width: 80px;
+    z-index: 3;
+}
+
+.image-hand{
+    position: absolute;
+    margin: 560px 0 0 630px;
+    width: 140px;
+    z-index: 4;
+}
+
+.image-message{
+    position:absolute;
+    margin: 520px 0 0 710px;
+    width: 75px;
+    z-index: 3;
+}
+
+.image-avatar {
+    position: absolute;
+    z-index: 3;
+    height: 530px;
+    width: 530px;
+    margin: 170px 0 100px 40px;
+    border: 3px solid #D7ACAC;
+    border-radius: 50px;
+}
+
+.image-panel2{
+    position: absolute;
+    z-index: 1;
+    width: 600px;
+    margin: 60px 0 0 10px;
+}
+
+.selca-panel{
+    position: absolute;
+    z-index: 1;
+    width: 950px;
+    height: 670px;
+    margin: 60px 0 0 640px;
+}
+
+.text-h{
+    margin: 180px 0 20px 710px;
+    position: absolute;
+    z-index: 2;
+
+}
+
+.border{
+    position: absolute;
+    z-index: 3;
+    margin: 170px 0 0 677px;
+    width: 885px;
+    height: 530px;
+}
+
+.h2-newbie{
+    font-family: "Retron";
+    color: #FFF6F6;
+    font-size: 110px;
+    display: inline;
+}
+
+.h2-artist{
+    font-family: "Retron";
+    color: #AF7676;
+    font-size: 130px;
+    display: inline;
+}
+
+.info{
+    font-family: "Retron";
+    color: #856C7A;
+    font-size: 40px;
+    margin: 90px 0 0 710px;
+    position: absolute; 
+    z-index: 3;
+    opacity: 0.8;
+}
+
+.panels{
+    position: absolute;
+    z-index: 3;
+    width: 600px;
+    height: 300px;
+    margin: 600px 0 0 1000px;
+}
+
+.new{
+    font-family: "Retron";
+    color: #856C7A;
+    font-size: 40px;
+    margin: 705px 0 0 1040px;
+    position: absolute; 
+    z-index: 3;
+    opacity: 0.8;
+}
+
+.message{
+    font-family: "Retron";
+    color: #AF7676;
+    font-size: 50px;
+    margin: 780px 0 0 1040px;
+    position: absolute; 
+    z-index: 3;
+}
+
+h3{
+    font-family: "Retron";
+    color: #AF7676;
+    font-size: 45px;
+    margin: 50px 0 60px 90px;
+}
+
+.meet{
+    font-family: "Retron";
+    color: #856C7A;
+    font-size: 40px;
+    margin: 90px 0 0 50px;
+    position: absolute; 
+    z-index: 3;
+    opacity: 0.8;
+}
+
+.me{
+    margin: 660px 0 0 250px;
+}
+
+
+
